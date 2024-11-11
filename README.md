@@ -2,13 +2,13 @@
 
 Welcome to Cells: Ultimate Edition! This is a fun, interactive game built with Python's Tkinter library, where you control a cell and navigate through a vibrant field of other cells. Customize your experience, challenge your skills, and aim for the highest score!
 
-#Features
+# Features
 Dynamic Gameplay: Control your cell and interact with various objects in the environment.
 Custom Key Bindings: Set your preferred controls to move comfortably.
 Score Tracking and High Scores: Keep track of your best scores and challenge yourself to improve.
 Save and Load: Continue your game anytime with the save and load features.
 
-#Installation
+# Installation
 Ensure you have Python 3.6 or higher installed on your computer.
 
 Clone this repository or download the ZIP file.
@@ -26,6 +26,7 @@ Objective: Survive as long as possible and rack up points to achieve a high scor
 Customization
 Key Bindings: Access the settings menu to change the default controls.
 Saving and Loading: Use the save and load buttons to save your progress and resume it later.
+
 Scoring System
 Each interaction with other cells will earn you points, and your goal is to achieve the highest score. Compete with yourself or friends to reach the top of the leaderboard.
 
