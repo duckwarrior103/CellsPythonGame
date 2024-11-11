@@ -1,0 +1,1 @@
+[{'user': 'duckwarrior102', 'score': 4391}, {'user': 'DEFAULT_USER', 'score': 3482}, {'user': 'DEFAULT_USER', 'score': 2962}, {'user': 'DEFAULT_USER', 'score': 5433}]
